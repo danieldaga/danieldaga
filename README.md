@@ -18,8 +18,11 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
  <img src="https://camo.githubusercontent.com/d20181791a7d3716b202e8c3549c20cd5d435bb6bbb2556fbcf99f7841f48d5e/68747470733a2f2f63646e2d69636f6e732d706e672e666c617469636f6e2e636f6d2f3531322f353936382f353936383836362e706e67" alt="html5" height="40" style="vertical-align:top; margin:4px">
-<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px"><img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
- 
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+<img src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="html5" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg" alt="html5" height="40" width="40" style="vertical-align:top; margin:4px">
 </p>
 
 ## Learning
