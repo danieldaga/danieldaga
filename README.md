@@ -3,7 +3,7 @@
 
 
 
-## ✉️ Find me on:
+### ✉️ Find me on:
 
 
 <p align="center">
@@ -12,7 +12,7 @@
  <a href="mailto:dagarodriguez93@gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/400px-Gmail_icon_%282020%29.svg.png" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
-##  🧰 Languages and Tools:
+###  🧰 Languages and Tools:
 <p align="center">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="40" style="vertical-align:top; margin:4px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css" height="40" style="vertical-align:top; margin:4px">
@@ -25,12 +25,12 @@
  <img src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg" alt="html5" height="40" width="40" style="vertical-align:top; margin:4px">
 </p>
 
-## Learning
+### Learning
 <p align="center">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
-## :trophy: My GitHub Stats :trophy:
+### :trophy: My GitHub Stats :trophy:
 <hr>
 
 <div style="display: flex; flex-direction: row;">
