@@ -34,7 +34,6 @@
 <hr>
 
 <div style="display: flex; flex-direction: row;">
- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieldaga&show_icons=true&theme=radical)
  <img class="img" style="height:200px; width:410px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danieldaga&theme=tokyonight&layout=compact" />
 </div>
 
