@@ -23,11 +23,12 @@
  <img src="https://www.adobe.com/content/dam/shared/images/product-icons/svg/illustrator.svg" alt="html5" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg" alt="html5" height="40" width="40" style="vertical-align:top; margin:4px">
+ <img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ### Learning:
 <p align="center">
-<img src="https://www.freepnglogos.com/uploads/javascript-png/javascript-logo-transparent-logo-javascript-images-3.png" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="Javascript" height="40" style="vertical-align:top; margin:4px">
 </p>
 
 ### :trophy: My GitHub Stats :trophy:
