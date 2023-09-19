@@ -30,14 +30,15 @@
  <img src="https://cdn-icons-png.flaticon.com/512/518/518713.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.arduino.cc/header-footer/prod/assets/headerLogo-arduino.svg" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
  <img src="https://camo.githubusercontent.com/93b32389bf746009ca2370de7fe06c3b5146f4c99d99df65994f9ced0ba41685/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f676574706f73746d616e2f676574706f73746d616e2d69636f6e2e737667" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
+ <img a src="https://camo.githubusercontent.com/03b343ee0b98b7c4b8d5533a75c2c4d593f6141e2df042ee2001ab9905ad8ebb/68747470733a2f2f6e6f7469636f6e2d7374617469632e74616d6d6f6c6f2e636f6d2f6467676763726b78712f696d6167652f75706c6f61642f76313536363535373236342f6e6f7469636f6e2f65796876626d6838326e68646f79646c346a32612e706e67" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
+ <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
+ <img src="https://camo.githubusercontent.com/c457309037aabdce151cc0e197d6db98234a31636ef41f2cc1c339832fe20de3/68747470733a2f2f63646e2e61757468302e636f6d2f626c6f672f6c6f676f732f6e6578746a732d6c6f676f2e706e67" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
 
 <hr>
 
 ### Learning:
 
 <p align="center">
- <img a src="https://camo.githubusercontent.com/03b343ee0b98b7c4b8d5533a75c2c4d593f6141e2df042ee2001ab9905ad8ebb/68747470733a2f2f6e6f7469636f6e2d7374617469632e74616d6d6f6c6f2e636f6d2f6467676763726b78712f696d6167652f75706c6f61642f76313536363535373236342f6e6f7469636f6e2f65796876626d6838326e68646f79646c346a32612e706e67" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
- <img src="https://firebase.google.com/static/downloads/brand-guidelines/PNG/logo-logomark.png?hl=es-419" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
  <img src="https://camo.githubusercontent.com/4854a9b101b22bdb9c494ec5c8b20b9c973f57a49fd61d81baf9072d600a95b3/68747470733a2f2f6e6f7469636f6e2d7374617469632e74616d6d6f6c6f2e636f6d2f6467676763726b78712f696d6167652f75706c6f61642f76313536363739313630392f6e6f7469636f6e2f6e656e3179313167617a657168656a77376e6d312e706e67" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
   <img src="https://camo.githubusercontent.com/1b938a8770774c11ebdf27c1c371d173a48c6f0504cc224a8a6b47d5a8a332ac/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6d6f6e676f64622f6d6f6e676f64622d69636f6e2e737667" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
 </p>
