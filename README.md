@@ -22,6 +22,7 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1024px-Typescript_logo_2020.svg.png" alt="typescirpt" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" height="40" style="vertical-align:top; margin:4px">
  <img src="https://cdn.worldvectorlogo.com/logos/next-js.svg" alt="next" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://imgs.search.brave.com/3N-_SqdmhrngIhhISdONNdNq-rjrGEtlO47gxy1PlqI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/cG9zdGdyZXNxbC5v/cmcvbWVkaWEvaW1n/L2Fib3V0L3ByZXNz/L2VsZXBoYW50LnBu/Zw" alt="postgreSQL" height="40" style="vertical-align:top; margin:4px">
  <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png" alt="html5" height="40" style="vertical-align:top; margin:4px">
  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/320px-Tailwind_CSS_Logo.svg.png" alt="tailwind" height="40" style="vertical-align:top; margin:4px">
  <img src="https://www.jorgehernandezramirez.com/wp-content/uploads/2017/07/nodelogo.png" alt="node" height="40" style="vertical-align:top; margin:4px">
@@ -40,7 +41,7 @@
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png" alt="python" height="40" style="vertical-align:top; margin:4px">
- <img src="https://bookface-images.s3.amazonaws.com/logos/600914b0059a2e51ecabdb717bfc97bd2acfc1b5.png" alt="reflex" height="40" style="vertical-align:top; margin:4px">
+ <img src="https://imgs.search.brave.com/OB7TaiPXp9t87Likrv9kTjyaboeaKmVFXdBXIZbYWZI/rs:fit:860:0:0/g:ce/aHR0cHM6Ly93d3cu/bGlibG9nby5jb20v/aW1nLWxvZ28vYXc3/NTE5ZmU1OC1hd3Mt/bG9nby1maWxlLWFt/YXpvbi13ZWItc2Vy/dmljZXMtbG9nby1z/dmctd2lraW1lZGlh/LWNvbW1vbnMucG5n" alt="AWS" height="40" style="vertical-align:top; margin:4px">
   <img src="https://c0.klipartz.com/pngpicture/747/798/gratis-png-logotipo-de-mysql-base-de-datos-mysql-software-de-desarrollo-web-dolphin.png" alt="mysql" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
  <img src="https://seeklogo.com/images/S/supabase-logo-DCC676FFE2-seeklogo.com.png" alt="supabase" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
   <img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" alt="html5" color="#fff" height="40" width="40" style="vertical-align:top; margin:4px">
